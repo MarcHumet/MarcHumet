@@ -2,7 +2,7 @@
 
 **Building end-to-end data products: from messy data to reliable insights, ML models, and production-ready automation.**
 
-[LinkedIn](https://www.linkedin.com/in/[your-link]) · [GitHub](https://github.com/MarcHumet) · [Portfolio/Website](https://[your-domain]) · [Location](#) · [Open to](# Full-time | Contract | Freelelance)
+[LinkedIn](https://www.linkedin.com/in/[your-link]) · [GitHub](https://github.com/MarcHumet) · [Location](https://maps.app.goo.gl/kS2n3sQwq9BKSdYaA)
 
 ---
 
