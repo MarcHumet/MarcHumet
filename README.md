@@ -141,8 +141,8 @@ Senior, hands-on **Data Analyst / Data Scientist** with practical experience del
 
 ## Tools & technologies
 
-**Languages:** Python, SQL, [R], [Bash]  
-**Data/ML:** pandas, NumPy, scikit-learn, XGBoost/LightGBM, statsmodels, SHAP, [PyTorch], [TensorFlow]  
+**Languages:** Python, SQL, Bash  
+**Data/ML:** pandas, NumPy, scikit-learn, XGBoost/LightGBM, statsmodels, H2O, Optuna, PyTorch, TensorFlow  
 **Visualization:** Power BI, Tableau, Looker, matplotlib, seaborn, plotly  
 **Data Engineering:** dbt, Airflow, Spark, APIs, web scraping, data quality checks  
 **Cloud:** AWS / GCP / Azure ([services: S3/BigQuery/Snowflake/etc.])  
@@ -160,10 +160,9 @@ Senior, hands-on **Data Analyst / Data Scientist** with practical experience del
 
 ## Contact
 
-- **Email:** [your.email@domain.com]
-- **LinkedIn:** https://www.linkedin.com/in/[your-link]
+- **Email:** [marc.humet.datascience@gmail.com](marc.humet.datascience@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/MarcHumetMontada](https://www.linkedin.com/in/MarcHumet)
 - **GitHub:** https://github.com/MarcHumet
-- **Calendar (optional):** [Link]
 
 ---
 
