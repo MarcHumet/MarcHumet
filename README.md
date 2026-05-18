@@ -37,9 +37,34 @@ Senior, hands-on **Data Analyst / Data Scientist** with practical experience del
 
 ---
 
+
 ## Featured projects
 
 > Replace placeholders with your real project names, metrics, and links. Each project includes: **problem → approach → tools → impact**.
+
+
+### Job Search — Automated Job Application Tool
+
+**Description:**  
+Automation system for collecting, enriching, and tracking LinkedIn job offers, with a Streamlit dashboard for exploration and application management.
+
+- **Problem solved:** Manual job search and application tracking are slow, repetitive, and error-prone.
+- **Approach:**  
+	- Fetches job postings from LinkedIn using the Apify API.
+	- Validates and deduplicates data, storing it in SQLite.
+	- Enriches missing job fields from raw JSON.
+	- Tracks application status with an `applied` flag.
+	- Provides a Streamlit UI for filtering, exploring, and updating job applications.
+- **Tools & technologies:** Python, Apify API, SQLAlchemy, Pydantic, Streamlit, dotenv, Google Sheets API (optional)
+- **Impact:**  
+	- Reduced manual job search and application time.
+	- Centralized, deduplicated job database.
+	- Easy tracking and filtering of job applications.
+- **Links:**  
+	- [Source code](https://github.com/MarcHumet/job_search)  
+	- [Project folder](/home/marc/project/job_search)  
+	- [Streamlit UI: jobs_explorer.py](/home/marc/project/job_search/src/streamlit/jobs_explorer.py)
+
 
 ### 1) [Project Name] — Executive KPI Dashboard & Data Model
 
